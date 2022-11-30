@@ -1,6 +1,6 @@
 # Brian's GitHub Profile
 
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQHAdzdnBah3mg/profile-displaybackgroundimage-shrink_350_1400/0/1654649949645?e=1666224000&v=beta&t=BmKGEsw7UoHTMYIupc_uEG6ZgoWCknlfKmtmq-DYIgI" alt="banner image" width="1600"/>
+![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/51007172/204676082-e5e8955d-7499-43b1-9f31-e03d307ae0b6.png)
 
 Hello! Welcome to my Github profile!
 
